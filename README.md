@@ -1,1 +1,1 @@
-# Reproduce-GNN_Ownership_Verification
+# Reproduce_GNN_Ownership_Verification
