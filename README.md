@@ -1,4 +1,4 @@
-# Reproduce_GNN_Ownership_Verification
+
 
 # Reproduce Revisiting Black-box Ownership Verification for GNNs
 
